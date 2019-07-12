@@ -1,0 +1,14 @@
+Training Episode 20000: 	 Average reward = -8.82 +/- nan /ep 
+
+Training Episode 20000: 	 Average reward = -8.82 +/- nan /ep 
+
+Training Episode 25000: 	 Average reward = -1.55 +/- nan /ep 
+
+Training Episode 25000: 	 Average reward = -1.55 +/- nan /ep 
+
+Training Episode 25000: 	 Average reward = -1.55 +/- nan /ep 
+
+Training Episode 25000: 	 Average reward = -1.55 +/- nan /ep 
+
+Training Episode 25000: 	 Average reward = -1.55 +/- nan /ep 
+
